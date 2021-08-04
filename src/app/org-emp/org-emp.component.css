@@ -1,0 +1,18 @@
+.container{
+    background-color: #fff;
+    height: 850px;
+    width: 100%;
+}
+.title{
+    display: block;
+    position: relative;
+    background: url(../../assets/box-title.gif) repeat-x left top;
+    padding: 8px 10px 0;
+}
+
+.title h4{
+    font: 12px/1.0em Verdana, Arial, Tahome;
+    color: #333333;
+    height: 19px;
+    font-weight: 600;
+}
